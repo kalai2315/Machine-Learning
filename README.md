@@ -34,3 +34,6 @@ Plot the original data (before applying LDA).
 
 Visualize the transformed data after LDA in 2D space, where classes are better separated.
 
+![image](https://github.com/user-attachments/assets/94d51751-0372-496c-8c90-d10389383fb7)
+
+
